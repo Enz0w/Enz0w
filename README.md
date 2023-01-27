@@ -1,7 +1,4 @@
 -  Hi, I’m Enzo
--  I’m interested in coding and stuff.
--  I’m currently learning JavaScript.
--  I’m looking to collaborate on ... idk right now, just trying to learn and get some experiencie.
 -  How to reach me ... Email: endooliveira49@gmail.com
 
 <!---
