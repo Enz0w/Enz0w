@@ -1,5 +1,5 @@
 -  Hi, I’m Enzo
--  looking for a mentor to teach me programming good practices
+-  a young developer under development
 -  How to reach me ... e-mail: endooliveira49@gmail.com
 
 <!---
